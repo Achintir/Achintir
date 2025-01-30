@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Achintir
 - 👀 I’m interested in UI/UX ,GRAPHIC DESIGNS,WEBSITES AND APP DEVELOPMENT 
-- 🌱 I’m currently learning GRAPHIC DESIGNS,WEBSITES AND APP DEVELOPMENT
-- 💞️ I’m looking to collaborate on any projects in the above categories
 - 📫 You can reach me by email: seidujude10@gmail.com or by whatsapp:0545267382
 
 <!---
